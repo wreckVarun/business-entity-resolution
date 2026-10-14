@@ -1,0 +1,94 @@
+{
+  "all_same_country_pairs": 11839670856657,
+  "true_pairs": 7638365,
+  "by_top_k": [
+    {
+      "top_k": 1,
+      "pairs": 2206809,
+      "pairs_per_s1": 1.0,
+      "pair_recall": 0.2496,
+      "ceiling_f05": 0.6328,
+      "reduction_ratio": 0.99999981
+    },
+    {
+      "top_k": 3,
+      "pairs": 6620281,
+      "pairs_per_s1": 3.0,
+      "pair_recall": 0.6289,
+      "ceiling_f05": 0.8952,
+      "reduction_ratio": 0.99999944
+    },
+    {
+      "top_k": 5,
+      "pairs": 11033002,
+      "pairs_per_s1": 5.0,
+      "pair_recall": 0.8279,
+      "ceiling_f05": 0.951,
+      "reduction_ratio": 0.99999907
+    },
+    {
+      "top_k": 10,
+      "pairs": 22058403,
+      "pairs_per_s1": 10.0,
+      "pair_recall": 0.9103,
+      "ceiling_f05": 0.9684,
+      "reduction_ratio": 0.99999814
+    },
+    {
+      "top_k": 15,
+      "pairs": 33071086,
+      "pairs_per_s1": 14.99,
+      "pair_recall": 0.9214,
+      "ceiling_f05": 0.972,
+      "reduction_ratio": 0.99999721
+    },
+    {
+      "top_k": 20,
+      "pairs": 44067276,
+      "pairs_per_s1": 19.97,
+      "pair_recall": 0.9274,
+      "ceiling_f05": 0.9741,
+      "reduction_ratio": 0.99999628
+    },
+    {
+      "top_k": 30,
+      "pairs": 65998767,
+      "pairs_per_s1": 29.91,
+      "pair_recall": 0.9343,
+      "ceiling_f05": 0.9765,
+      "reduction_ratio": 0.99999443
+    },
+    {
+      "top_k": 40,
+      "pairs": 87833170,
+      "pairs_per_s1": 39.8,
+      "pair_recall": 0.9387,
+      "ceiling_f05": 0.9781,
+      "reduction_ratio": 0.99999258
+    },
+    {
+      "top_k": 50,
+      "pairs": 109553188,
+      "pairs_per_s1": 49.64,
+      "pair_recall": 0.9422,
+      "ceiling_f05": 0.9795,
+      "reduction_ratio": 0.99999075
+    },
+    {
+      "top_k": 75,
+      "pairs": 163267539,
+      "pairs_per_s1": 73.98,
+      "pair_recall": 0.9488,
+      "ceiling_f05": 0.9821,
+      "reduction_ratio": 0.99998621
+    },
+    {
+      "top_k": 100,
+      "pairs": 216009214,
+      "pairs_per_s1": 97.88,
+      "pair_recall": 0.9531,
+      "ceiling_f05": 0.9837,
+      "reduction_ratio": 0.99998176
+    }
+  ]
+}
