@@ -1,0 +1,10 @@
+# data and intermediate files (several GB) are rebuilt by the pipeline
+data/
+output/
+models/*.txt
+reports/valid_predictions.parquet
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
